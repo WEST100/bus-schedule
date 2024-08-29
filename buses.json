@@ -2,192 +2,192 @@
   {
     "id": 1,
     "busNumber": "100",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Гурьевск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Berlin",
     "firstDepartureTime": "04:38",
     "frequencyMinutes": 16
   },
   {
     "id": 2,
     "busNumber": "101",
-    "startPoint": "г. Калининград",
-    "endPoint": "пос. Ярославское",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Ratingen",
     "firstDepartureTime": "05:17",
     "frequencyMinutes": 25
   },
   {
     "id": 3,
     "busNumber": "102",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Светлый",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Paris",
     "firstDepartureTime": "04:51",
     "frequencyMinutes": 42
   },
   {
     "id": 4,
     "busNumber": "103",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Балтийск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Lisbon",
     "firstDepartureTime": "4:10",
     "frequencyMinutes": 21
   },
   {
     "id": 5,
     "busNumber": "104",
-    "startPoint": "г. Калининград",
-    "endPoint": "пос. Южный",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Munich",
     "firstDepartureTime": "4:35",
     "frequencyMinutes": 36
   },
   {
     "id": 6,
     "busNumber": "105",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Гвардейск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Hamburg",
     "firstDepartureTime": "4:33",
     "frequencyMinutes": 24
   },
   {
     "id": 7,
     "busNumber": "106",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Зеленоградск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Amsterdam",
     "firstDepartureTime": "04:33",
     "frequencyMinutes": 19
   },
   {
     "id": 8,
     "busNumber": "107",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Мамонтово",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Brussels",
     "firstDepartureTime": "05:11",
     "frequencyMinutes": 65
   },
   {
     "id": 9,
     "busNumber": "108",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Светлогорск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Cologne",
     "firstDepartureTime": "04:55",
     "frequencyMinutes": 35
   },
   {
     "id": 10,
     "busNumber": "109",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Пионерский",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Frankfurt",
     "firstDepartureTime": "05:33",
     "frequencyMinutes": 77
   },
   {
     "id": 11,
     "busNumber": "110",
-    "startPoint": "г. Калининград",
-    "endPoint": "пос. Янтарный",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Warsaw",
     "firstDepartureTime": "05:20",
     "frequencyMinutes": 66
   },
   {
     "id": 12,
     "busNumber": "111",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Багратионовск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Vienna",
     "firstDepartureTime": "06:13",
     "frequencyMinutes": 55
   },
   {
     "id": 23,
     "busNumber": "112",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Гусев",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Budapest",
     "firstDepartureTime": "06:40",
     "frequencyMinutes": 85
   },
   {
     "id": 24,
     "busNumber": "113",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Советск",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Milan",
     "firstDepartureTime": "6:20",
     "frequencyMinutes": 72
   },
   {
     "id": 13,
     "busNumber": "200",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Вильнус (Литва)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Lyon",
     "firstDepartureTime": "10:00",
     "frequencyMinutes": 1440
   },
   {
     "id": 14,
     "busNumber": "201",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Минск (Беларусь)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Rome",
     "firstDepartureTime": "4:00",
     "frequencyMinutes": 720
   },
   {
     "id": 15,
     "busNumber": "202",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Рига (Латвия)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Zurich",
     "firstDepartureTime": "09:00",
     "frequencyMinutes": 1440
   },
   {
     "id": 16,
     "busNumber": "203",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Клайпеда (Литва)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Stuttgart",
     "firstDepartureTime": "09:30",
     "frequencyMinutes": 1440
   },
   {
     "id": 17,
     "busNumber": "204",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Прага(Чехия)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Dresden",
     "firstDepartureTime": "11:30",
     "frequencyMinutes": 1440
   },
   {
     "id": 18,
     "busNumber": "205",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Санкт-Петербург",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Dortmund",
     "firstDepartureTime": "5:00",
     "frequencyMinutes": 720
   },
   {
     "id": 19,
     "busNumber": "206",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Таллин(Эстония)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Rotterdam",
     "firstDepartureTime": "11:00",
     "frequencyMinutes": 1440
   },
   {
     "id": 20,
     "busNumber": "300",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Варшава(Польша)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Bremen",
     "firstDepartureTime": "10:30",
     "frequencyMinutes": 1440
   },
   {
     "id": 21,
     "busNumber": "301",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Берлин(Германия)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Hanover",
     "firstDepartureTime": "08:00",
     "frequencyMinutes": 1440
   },
   {
     "id": 22,
     "busNumber": "302",
-    "startPoint": "г. Калининград",
-    "endPoint": "г. Гданьск(Польша)",
+    "startPoint": "Düsseldorf",
+    "endPoint": "Essen",
     "firstDepartureTime": "08:30",
     "frequencyMinutes": 1440
   }

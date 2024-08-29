@@ -16,7 +16,6 @@ app.use(express.static(path.join(__dirname, "public")));// добавляем в
 const loadBuses = async () => {
   const data = await readFile(path.join(__dirname, "buses.json"), "utf-8");
   return JSON.parse(data);
-  // console.log(data);
 };
 
 // функция для получения даты и времени следующей отправки
@@ -59,7 +58,6 @@ const sendUpdatedData = async () => {
 
   const updatedBuses = buses.map((bus) => {
     const nextDeparture = getNextDeparture(bus.firstDepartureTime, bus.frequencyMinutes);
-    console.log('nextDeparture: ', nextDeparture);
 
     // метод diff это сравнение
     const timeRemaining = Duration.fromMillis(nextDeparture.diff(now).toMillis())

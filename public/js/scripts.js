@@ -50,7 +50,7 @@ const renderBusData = (buses) => {
 
 // wss это как https, a ws это как http (когда на хостинге то надо wss, когда локально то ws)
 const initWebSocket = () => {
-  const ws = new WebSocket(`ws://${location.host}`);
+  const ws = new WebSocket(`wss://${location.host}`);
 
   // событие при open
   ws.addEventListener('open', () => {
